@@ -1,0 +1,28 @@
+/* This style sheet is for the Interface */
+body {
+    font-family:arial, verdana, sans-serif;
+}
+h2 {
+    color:#666666;
+}
+p {
+    font-size:90%; 
+    color:#333333;
+}
+/* Changing the colors of the navigation bar or a tag */
+#navigation a {
+    color:#3399cc;
+}
+#navigation a {
+    color:#3399cc;
+    text-decoration: none;
+}
+/* I used this to add background image and putting border on tables */
+Table.Tibol { 
+    background-image: url(https://i.ibb.co/02jyTmS/Background.jpg); 
+	padding: 25px;
+    background-repeat: no-repeat;  
+  	border-style: double; 
+    border-color: black;
+    background-size: cover;
+}

@@ -1,0 +1,18 @@
+/* This is from the example */
+#Menu a {
+    color:rgb(0, 170, 255);
+}
+#Menu a {
+    color:rgb(0, 170, 255);
+    text-decoration: none;
+
+    /* Putting Stroke for design */
+}
+#Food h2 {
+    color:rgb(0, 170, 255);
+    -webkit-text-stroke: .7px;
+    -webkit-text-stroke-color: black;
+}
+#Indent p {
+    text-indent: 50px;
+}
